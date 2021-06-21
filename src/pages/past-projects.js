@@ -8,7 +8,7 @@ import pic04 from '../assets/images/pic04.jpg'
 import pic07 from '../assets/images/pic07.jpg'
 import pic08 from '../assets/images/pic08.jpg'
 
-const Elements = props => (
+const PastProjectsPage = props => (
   <Layout>
     <Helmet>
       <title>Past Projects</title>
@@ -157,4 +157,4 @@ const Elements = props => (
   </Layout>
 )
 
-export default Elements
+export default PastProjectsPage

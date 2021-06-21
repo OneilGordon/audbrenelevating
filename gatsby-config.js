@@ -19,7 +19,7 @@ module.exports = {
           },
           {
             name: 'Stannah',
-            link:'/stanna'
+            link:'/stannah'
           },
         ],
       },

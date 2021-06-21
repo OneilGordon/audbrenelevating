@@ -7,7 +7,7 @@ import starlift1 from '../assets/images/stairlift1.jpg'
 import renaissance from '../assets/images/renaissance.jpg'
 import Fade from 'react-reveal/Fade'
 
-const LeftSidebar = props => (
+const RamPage = props => (
   <Layout>
     <Helmet>
       <title>RAM</title>
@@ -115,4 +115,4 @@ const LeftSidebar = props => (
   </Layout>
 )
 
-export default LeftSidebar
+export default RamPage

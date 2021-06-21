@@ -13,7 +13,7 @@ const imageStyle = {
     maxWidth: '100px !important',
     maxHeight: '100px !important'
 }
-const Four = props => (
+const TeamPage = props => (
     <Layout>
         <Fade duration = {2500}>
         <section id="four" className="wrapper style1 special fade-up">
@@ -98,4 +98,4 @@ const Four = props => (
     </Layout>    
 )
 
-export default Four
+export default TeamPage

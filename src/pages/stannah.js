@@ -8,7 +8,7 @@ import stairlift2 from '../assets/images/stairlift2.jpg'
 import legacyvolt from '../assets/images/legacyvolt.jpg'
 import Fade from 'react-reveal/Fade'
 
-const LeftSidebar = props => (
+const StannahPage = props => (
   <Layout>
     <Helmet>
       <title>Stannah</title>
@@ -116,4 +116,4 @@ const LeftSidebar = props => (
   </Layout>
 )
 
-export default LeftSidebar
+export default StannahPage

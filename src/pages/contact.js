@@ -9,7 +9,7 @@ import pic07 from '../assets/images/pic07.jpg'
 import pic08 from '../assets/images/pic08.jpg'
 import GoogleMap from '../components/GoogleMap'
 
-const Elements = props => (
+const ContactPage = props => (
   <Layout>
     <Helmet>
       <title>Past Projects</title>
@@ -123,4 +123,4 @@ const Elements = props => (
   </Layout>
 )
 
-export default Elements
+export default ContactPage

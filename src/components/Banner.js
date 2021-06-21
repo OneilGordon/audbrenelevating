@@ -13,6 +13,9 @@ const Banner = props => (
           <br />
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
+        <p>
+        <a href="/past-projects" className="button primary">Our Work</a>
+        </p>
       </header>
       {/* <span className="image">
         <img src={pic01} alt="intro" />
