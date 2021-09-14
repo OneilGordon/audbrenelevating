@@ -1,3 +1,3 @@
 ## Preview
 
-upbeat-wing-c75d9a.netlify.app
+https://upbeat-wing-c75d9a.netlify.app
