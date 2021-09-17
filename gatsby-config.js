@@ -28,10 +28,6 @@ module.exports = {
         link: '/past-projects'
       },
       {
-        name: 'Builders',
-        link: '#'
-      },
-      {
         name: 'Our Team',
         link:'/team'
       },

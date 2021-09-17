@@ -23,6 +23,7 @@ const AnyReactComponent = ({ text }) => <div style={style}>{text}</div>
 const GoogleMap = () => (
   <div style={{ height: '100vh', width: '100%' }}>
     <GoogleMapReact
+      //dummy api
       //bootstrapURLKeys={{ key: 'AIzaSyD2qsgKZzbCiuLuqVcC6HVE-1L1BpMJUAU' }}
       defaultCenter={defaultProps.center}
       defaultZoom={defaultProps.zoom}
