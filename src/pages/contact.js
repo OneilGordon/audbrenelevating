@@ -26,6 +26,25 @@ const ContactPage = props => (
           </p>
         </header>
         <section>
+        <header className="major">
+          <h2>Our Locations</h2>
+          <p>
+            Ipsum dolor feugiat aliquam tempus sed magna lorem consequat
+            accumsan
+          </p>
+        </header>
+        <GoogleMap/>
+          {/* <div className="box alt">
+            <div className="row gtr-50 gtr-uniform">
+              <div className="col-12">
+                <span className="image fit">
+                  
+                </span>
+              </div>
+            </div>
+          </div> */}
+        </section>
+        <section>
           <form method="post" action="#">
             <div className="row gtr-uniform gtr-50">
               <div className="col-6 col-12-xsmall">
@@ -97,25 +116,6 @@ const ContactPage = props => (
               </div>
             </div>
           </form>
-        </section>
-        <section>
-        <header className="major">
-          <h2>Our Locations</h2>
-          <p>
-            Ipsum dolor feugiat aliquam tempus sed magna lorem consequat
-            accumsan
-          </p>
-        </header>
-        <GoogleMap/>
-          {/* <div className="box alt">
-            <div className="row gtr-50 gtr-uniform">
-              <div className="col-12">
-                <span className="image fit">
-                  
-                </span>
-              </div>
-            </div>
-          </div> */}
         </section>
       </div>
     </div>
